@@ -1,0 +1,42 @@
+[
+    {
+        "format": {
+            "nameWidth": 4,
+            "descriptionWidth": 10,
+            "showTags": true,
+            "showCreated": true,
+            "showUpdated": true
+        },
+        "task": {
+            "id": 0,
+            "name": "GitHub",
+            "description": "Deploy latest version of the Taskr module",
+            "status": "TaskStatus.COMPLETED",
+            "priority": "TaskPriority.HIGH",
+            "due_date": "2024-05-10",
+            "created_at": "2024-05-10",
+            "updated_at": "2024-05-10",
+            "tags": "#programming/python #project/Taskr"
+        }
+    },
+    {
+        "format": {
+            "nameWidth": 4,
+            "descriptionWidth": 10,
+            "showTags": true,
+            "showCreated": true,
+            "showUpdated": true
+        },
+        "task": {
+            "id": 1,
+            "name": "Taskr",
+            "description": "Refactor the code applying the Software Engineering concepts learned",
+            "status": "TaskStatus.PENDING",
+            "priority": "TaskPriority.HIGH",
+            "due_date": "2024-05-12",
+            "created_at": "2024-05-10",
+            "updated_at": "2024-05-10",
+            "tags": "#computer-science/software-engineering #project/Taskr"
+        }
+    }
+]
